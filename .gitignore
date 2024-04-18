@@ -1,0 +1,4 @@
+# Игнорировать каталог data
+data/
+
+view_data.ipynb
